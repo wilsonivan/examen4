@@ -1,6 +1,6 @@
 
  *{
-    background-color: gold;
+    background-color: #DF3A3A;
     box-sizing: border-box; 
   }
 
@@ -16,6 +16,17 @@ h2{
     font-size:40px;
     background-color:teal;
     color:yellow;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+
+#texto2 {
+    padding: 30px 15px 5px 15px;
+    border: 3px solid olive;
+    font-size:40px;
+    background-color:#B66E6E;
+    color:black;
     font-weight: bold;
     font-style: italic;
   }
